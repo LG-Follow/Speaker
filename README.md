@@ -1,1 +1,1 @@
-# Speaker
+# SKT NUGU Speaker
